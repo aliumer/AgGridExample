@@ -12,6 +12,9 @@ import { FooterComponent } from './footer/footer.component';
     HeaderComponent,
     FooterComponent
   ],
-  exports: [LayoutComponent]
+  exports: [HeaderComponent,
+    FooterComponent,
+    LayoutComponent
+  ]
 })
 export class UiModule { }
