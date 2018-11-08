@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   'ag-grid': {
-    'license-key': 'testlicense_key'
+    'license-key': 'test licens here'
   }
 };
 
