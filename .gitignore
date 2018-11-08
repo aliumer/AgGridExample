@@ -40,4 +40,5 @@ testem.log
 Thumbs.db
 
 # config info
-/src/app/environments
+src/environments/environment.prod.ts
+src/environments/environment.ts
